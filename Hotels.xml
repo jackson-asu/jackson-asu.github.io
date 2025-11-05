@@ -2,9 +2,11 @@
 <Hotels
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:noNamespaceSchemaLocation="https://jackson-asu.github.io/Hotels.xsd">
-  <Hotel>
+
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E.7th St</Street>
@@ -14,7 +16,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.3">
     <Name>Hyatt Place Tempe / Downtown</Name>
     <Phone>480-207-1577</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -38,9 +40,10 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.5">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
+    <Phone>800-547-8705</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>60</Number>
       <Street>E 5th St</Street>
@@ -62,7 +65,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>MOXY Phoenix Tempe/ASU Area</Name>
     <Phone>480-337-2850</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -86,7 +89,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.0">
     <Name>DoubleTree by Hilton Phoenix Tempe</Name>
     <Phone>480-967-1441</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -110,7 +113,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>Hilton Garden Inn Phoenix-Tempe ASU Research Park</Name>
     <Phone>480-496-4495</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -133,4 +136,5 @@
       <Zip>85283</Zip>
     </Address>
   </Hotel>
+
 </Hotels>
