@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <Hotel Rating="4.2">
+  <Hotel>
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -12,7 +12,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.3">
+  <Hotel>
     <Name>Hyatt Place Tempe / Downtown</Name>
     <Phone>480-207-1577</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -36,7 +36,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.5">
+  <Hotel>
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -60,7 +60,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.1">
+  <Hotel>
     <Name>MOXY Phoenix Tempe/ASU Area</Name>
     <Phone>480-337-2850</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -84,7 +84,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.0">
+  <Hotel>
     <Name>DoubleTree by Hilton Phoenix Tempe</Name>
     <Phone>480-967-1441</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -108,7 +108,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.1">
+  <Hotel>
     <Name>Hilton Garden Inn Phoenix-Tempe ASU Research Park</Name>
     <Phone>480-496-4495</Phone>
     <Address NearestAirport="Sky Harbor">
